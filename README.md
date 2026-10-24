@@ -22,7 +22,7 @@
 ### macOS / Linux
 
 ```bash
-git clone <repository-url> KonoSuba-Quartet-Codex-Pets
+git clone https://github.com/zjsycwmrbig/KonoSuba-Quartet-Codex-Pets.git
 mkdir -p "$HOME/.codex/pets"
 cp -R KonoSuba-Quartet-Codex-Pets/pets/* "$HOME/.codex/pets/"
 ```
@@ -30,7 +30,7 @@ cp -R KonoSuba-Quartet-Codex-Pets/pets/* "$HOME/.codex/pets/"
 ### Windows PowerShell
 
 ```powershell
-git clone <repository-url> KonoSuba-Quartet-Codex-Pets
+git clone https://github.com/zjsycwmrbig/KonoSuba-Quartet-Codex-Pets.git
 $pets = Join-Path $HOME ".codex\pets"
 New-Item -ItemType Directory -Force $pets | Out-Null
 Copy-Item -Recurse -Force ".\KonoSuba-Quartet-Codex-Pets\pets\*" $pets
