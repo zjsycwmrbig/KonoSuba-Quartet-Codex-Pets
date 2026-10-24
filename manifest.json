@@ -1,0 +1,169 @@
+{
+  "schemaVersion": 1,
+  "collection": "KonoSuba Quartet Codex Pets",
+  "createdAt": "2026-10-24",
+  "spriteFormat": {
+    "version": 2,
+    "width": 1536,
+    "height": 2288,
+    "cellWidth": 192,
+    "cellHeight": 208,
+    "columns": 8,
+    "rows": 11,
+    "framesPerRow": [
+      6,
+      8,
+      8,
+      4,
+      5,
+      8,
+      6,
+      6,
+      6,
+      8,
+      8
+    ]
+  },
+  "pets": [
+    {
+      "order": 1,
+      "slug": "aqua",
+      "displayName": "阿库娅",
+      "romanizedName": "Aqua",
+      "role": "水之女神",
+      "description": "《为美好的世界献上祝福！》的水之女神，开朗冒失但真诚可爱。",
+      "stablePetId": "pet_6adad37d859481918b29a99e2d388ccc",
+      "package": "pets/aqua",
+      "spritesheet": "pets/aqua/spritesheet.webp",
+      "pngMaster": "assets/spritesheets/aqua.png",
+      "idlePreview": "previews/aqua-idle.png",
+      "allStatesPreview": "previews/aqua-all-states.gif",
+      "lookPreview": "previews/aqua-look-directions.png",
+      "spriteVersion": 2,
+      "width": 1536,
+      "height": 2288,
+      "framesPerRow": [
+        6,
+        8,
+        8,
+        4,
+        5,
+        8,
+        6,
+        6,
+        6,
+        8,
+        8
+      ],
+      "sha256": {
+        "pngMaster": "518cb776234c2ebb0431134f7060d2f8f071d11772b7df8111ed26f1f8aea47e",
+        "spritesheetWebp": "3a9f303918ba57facd2c30b865b7a5479e58d29694062915c2226315a1518b75"
+      }
+    },
+    {
+      "order": 2,
+      "slug": "megumin",
+      "displayName": "惠惠",
+      "romanizedName": "Megumin",
+      "role": "红魔族大魔法师",
+      "description": "《为美好的世界献上祝福！》的红魔族大魔法师，自信中二但可爱可靠。",
+      "stablePetId": "pet_6adac38a8d28819191f5db9c38f5c71c",
+      "package": "pets/megumin",
+      "spritesheet": "pets/megumin/spritesheet.webp",
+      "pngMaster": "assets/spritesheets/megumin.png",
+      "idlePreview": "previews/megumin-idle.png",
+      "allStatesPreview": "previews/megumin-all-states.gif",
+      "lookPreview": "previews/megumin-look-directions.png",
+      "spriteVersion": 2,
+      "width": 1536,
+      "height": 2288,
+      "framesPerRow": [
+        6,
+        8,
+        8,
+        4,
+        5,
+        8,
+        6,
+        6,
+        6,
+        8,
+        8
+      ],
+      "sha256": {
+        "pngMaster": "679a652c6eeb21f1b1b686d0f60ba3c213124878bd8cdb99164da0c94c8efcf2",
+        "spritesheetWebp": "f21d229f6d330b9641b91969483bb4fe97f698acfcc305c56dbf8c7d2a3328b7"
+      }
+    },
+    {
+      "order": 3,
+      "slug": "kazuma",
+      "displayName": "Kazuma 和真",
+      "romanizedName": "Kazuma Satou",
+      "role": "冒险者",
+      "description": "谨慎又嘴硬的冒险家，擅长在混乱中想办法。",
+      "stablePetId": "pet_6ad9e8f1524481919994224aa8b56e8f",
+      "package": "pets/kazuma",
+      "spritesheet": "pets/kazuma/spritesheet.webp",
+      "pngMaster": "assets/spritesheets/kazuma.png",
+      "idlePreview": "previews/kazuma-idle.png",
+      "allStatesPreview": "previews/kazuma-all-states.gif",
+      "lookPreview": "previews/kazuma-look-directions.png",
+      "spriteVersion": 2,
+      "width": 1536,
+      "height": 2288,
+      "framesPerRow": [
+        6,
+        8,
+        8,
+        4,
+        5,
+        8,
+        6,
+        6,
+        6,
+        8,
+        8
+      ],
+      "sha256": {
+        "pngMaster": "e8d4bcde0486e14c390010f1db2beb3f7761e71b63ce576fc840ccee057d3df2",
+        "spritesheetWebp": "e5a4b5d1899aff961e54b5842ff6f90a1e421107ee5a9e4a5e555f2afc13be4e"
+      }
+    },
+    {
+      "order": 4,
+      "slug": "darkness",
+      "displayName": "达克妮丝",
+      "romanizedName": "Darkness",
+      "role": "十字骑士",
+      "description": "《为美好的世界献上祝福！》的十字骑士，勇敢固执、忠诚又好胜。",
+      "stablePetId": "pet_6adaf9cdca788191a52e4d5d03ba4a5a",
+      "package": "pets/darkness",
+      "spritesheet": "pets/darkness/spritesheet.webp",
+      "pngMaster": "assets/spritesheets/darkness.png",
+      "idlePreview": "previews/darkness-idle.png",
+      "allStatesPreview": "previews/darkness-all-states.gif",
+      "lookPreview": "previews/darkness-look-directions.png",
+      "spriteVersion": 2,
+      "width": 1536,
+      "height": 2288,
+      "framesPerRow": [
+        6,
+        8,
+        8,
+        4,
+        5,
+        8,
+        6,
+        6,
+        6,
+        8,
+        8
+      ],
+      "sha256": {
+        "pngMaster": "8df4e27f27c55299d3c37d678fdb124e350606c998cd35692bbf5dbd42aa1cd3",
+        "spritesheetWebp": "bc996f30f18f2b7e526ad3d6d64df36d8860fe74635d8d3997e328bc9e7899dd"
+      }
+    }
+  ]
+}
